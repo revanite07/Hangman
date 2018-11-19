@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    color: rgb(26, 175, 21);
+    font-family: 'Hanalei Fill', cursive;
+    font-family: 'Pirata One', cursive;
+    font-family: 'New Rocker', cursive;
+    font-size: 100px;
+    margin-top: 1%;
+    
+}
+h2 {
+    text-align: center;
+    color: rgb(26, 175, 21);
+    font-family: 'Hanalei Fill', cursive;
+    font-family: 'Pirata One', cursive;
+    font-family: 'New Rocker', cursive;
+    font-size: 30px;
+    margin-top: 5%;
+
+}
+div {
+    text-align: center;
+    color: rgb(26, 175, 21);
+    font-family: 'Hanalei Fill', cursive;
+    font-family: 'Pirata One', cursive;
+    font-family: 'New Rocker', cursive;
+    font-size: 25px;
+    padding: 10px;
+
+}
+#col2{
+ float:right;
+ margin-top: -28%;
+ margin-right: 23%;
+ width: 28%;
+ 
+}
+p {
+ color: rgb(26, 175, 21);
+ font-family: 'Hanalei Fill', cursive;
+ font-family: 'Pirata One', cursive;
+ font-family: 'New Rocker', cursive;
+ width: 40%;
+ margin-left: 29%;
+ font-size: 22px;
+}
+.col-4 {
+    border: double;
+    text-align: center;
+    width: 29%;
+    margin-left: 14%;
+    margin-top: 4%;
+}
+img {
+    border: double;
+}
+.top {
+    margin-top: -14%;
+}
