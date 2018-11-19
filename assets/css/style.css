@@ -5,7 +5,7 @@ h1 {
     font-family: 'Pirata One', cursive;
     font-family: 'New Rocker', cursive;
     font-size: 100px;
-    margin-top: -1%;
+    margin-top: 1%;
     
 }
 h2 {
@@ -15,7 +15,7 @@ h2 {
     font-family: 'Pirata One', cursive;
     font-family: 'New Rocker', cursive;
     font-size: 30px;
-    margin-top: -4%;
+    margin-top: 5%;
 
 }
 div {
@@ -30,7 +30,7 @@ div {
 }
 #col2{
  float:right;
- margin-top: -34%;
+ margin-top: -28%;
  margin-right: 23%;
  width: 28%;
  
